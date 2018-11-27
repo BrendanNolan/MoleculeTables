@@ -1,4 +1,6 @@
 /*
+I may be able to improve this. 
+
 I've written a class template called NamedVec which allows me to give any 
 std::vector a name in the form of a std::string. I've given NamedVector some 
 operators and methods (such as clear and erase) that allow one to access and
