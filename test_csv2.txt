@@ -1,0 +1,8 @@
+Molecule, Solubility, Type, Molecular_Weight, Blah
+string, double, string, double, string
+Paracetamol, 4.97, inorganic, 151, huh       
+Caffeine, 5.05, organic, 194, well,
+Indomethacin, 1, inorganic, 358, know
+Talisker, 1.2, organic, 500, what
+Aberlour, 2.3, organic, 700, to
+Trimethoprim, 3.14, inorganic, 290, do 
